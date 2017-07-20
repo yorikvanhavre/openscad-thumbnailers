@@ -1,4 +1,4 @@
-rm -r ~/.cache/thumbnails
+# rm -r ~/.cache/thumbnails
 
 sudo cp *.thumbnailer /usr/share/thumbnailers/
 sudo mkdir /opt/openscad-thumbnailers/
