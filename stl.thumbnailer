@@ -1,3 +1,3 @@
 [Thumbnailer Entry]
 Exec=/opt/openscad-thumbnailers/stl2png.sh %i %o %s
-MimeType=application/sla;
+MimeType=application/sla;model/x.stl-binary;model/stl;model/x.stl-ascii
