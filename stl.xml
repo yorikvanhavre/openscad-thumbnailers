@@ -4,4 +4,16 @@
         <comment>Stereolithography</comment>
         <glob pattern="*.stl"/>
     </mime-type>
+    <mime-type type="model/x.stl-binary">
+        <comment>Stereolithography binary</comment>
+        <glob pattern="*.stl"/>
+    </mime-type>
+    <mime-type type="model/stl">
+        <comment>Stereolithography stl</comment>
+        <glob pattern="*.stl"/>
+    </mime-type>
+    <mime-type type="model/x.stl-ascii">
+        <comment>Stereolithography ASCII</comment>
+        <glob pattern="*.stl"/>
+    </mime-type>
 </mime-info>
