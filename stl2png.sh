@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-set -euo pipefail
+# set -euo pipefail # fails on some platforms?
 IFS=$'\n\t'
 
 FOO=$(basename "$1")
